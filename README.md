@@ -1,4 +1,4 @@
-# PathGrid: 2D AI Pathfinding & Traffic System
+2D AI Pathfinding & Traffic Simulation
 
 ![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-Programming-blue?style=for-the-badge&logo=c-sharp)
@@ -8,8 +8,8 @@ An interactive, grid-based 2D traffic and pathfinding simulation built with Unit
 
 ## Play the WebGL Demo
 
-Experience the simulation directly in your browser:  
-👉 **[Play PathGrid Live!]()**
+Experience the simulation directly in your browser: https://kb479.github.io/2D-AI-Pathfinding-Traffic-Simulation/
+
 
 ---
 
