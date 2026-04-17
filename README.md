@@ -15,7 +15,7 @@ Experience the simulation directly in your browser:
 
 ## Sneak Peek
 
-![Simulation Gameplay]()  
+<img width="1168" height="672" alt="Image" src="https://github.com/user-attachments/assets/3416d9a7-c614-42a1-89ee-5c251c5526d7" />
 *Dynamic path recalculation and algorithm switching in real-time.*
 
 ---
